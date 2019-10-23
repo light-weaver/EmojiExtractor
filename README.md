@@ -1,6 +1,6 @@
 # EmojiExtractor
 
-Usage instructions:
+## Usage instructions:
 
 * ~~Use this [Binder link](https://mybinder.org/v2/gh/light-weaver/EmojiExtractor/master)~~ Nevermind Binder doesn't work
 
@@ -14,3 +14,7 @@ OR
    `ipython kernel install --user --name=emojiextractor`
 * Download your whatsapp chat as txt
 * Run `Emoji extractor.ipynb`
+
+## Sample image
+
+![](./EmojiFreq.jpg)
