@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "emojiextractor"
+version = "0.1.0"
+description = ""
+authors = ["Bhupinder Saini <bhupinder.saini2.71@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+matplotlib = "^3.1"
+jupyter = "^1.0"
+emoji = "^0.5.4"
+regex = "^2019.8"
+plotly = "^4.2"
+pandas = "^0.25.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
