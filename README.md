@@ -2,7 +2,7 @@
 
 Usage instructions:
 
-* Use this [Binder link](https://mybinder.org/v2/gh/light-weaver/EmojiExtractor/master)
+* ~~Use this [Binder link](https://mybinder.org/v2/gh/light-weaver/EmojiExtractor/master)~~ Nevermind Binder doesn't work
 
 OR 
 
